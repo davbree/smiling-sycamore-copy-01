@@ -2,7 +2,7 @@
 title: About us
 sections:
   - type: HeroSection
-    title: About Us
+    title: About Us...
     subtitle: Who We Are
     topGap: none
     bottomGap: none
